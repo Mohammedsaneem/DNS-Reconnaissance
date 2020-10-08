@@ -1,6 +1,6 @@
 # Dns-Reconnaissance
 
-A simple shell script to get the most basic details of a domain.
+A simple shell script to collect DNS informations of a domain.
 
 ## Running
 
